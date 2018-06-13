@@ -11,8 +11,8 @@
     <AssemblyName>TilesEx</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
-    <TargetPlatformVersion>10.0.10240.0</TargetPlatformVersion>
-    <TargetPlatformMinVersion>10.0.10240.0</TargetPlatformMinVersion>
+    <TargetPlatformVersion>10.0.16299.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.16299.0</TargetPlatformMinVersion>
     <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -107,7 +107,6 @@
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
-    <None Include="TilesEx_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\Beverages.jpg" />
@@ -133,10 +132,10 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <SDKReference Include="DevExpress.Controls, Version=15.2">
+    <SDKReference Include="DevExpress.Controls, Version=18.1">
       <Name>DevExpress.Controls</Name>
     </SDKReference>
-    <SDKReference Include="DevExpress.Core, version=15.2">
+    <SDKReference Include="DevExpress.Core, version=18.1">
       <Name>DevExpress.Core</Name>
     </SDKReference>
   </ItemGroup>
