@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/TilesEx/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/TilesEx/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/TilesEx/MainPage.xaml) (VB: [MainPage.xaml](./VB/TilesEx/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/TilesEx/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/TilesEx/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to: Create Tiles with various animation effects
